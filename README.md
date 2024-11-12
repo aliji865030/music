@@ -25,7 +25,7 @@ You can try the live demo of this app at: [Live Link](https://music-eta-lime.ver
 - **Audio Playback**: Howler.js
 - **UI Components**: Material-UI (MUI)
 - **Drag-and-Drop**: react-beautiful-dnd
-- **Styling**: Tailwind CSS (optional)
+- **Styling**: Tailwind CSS 
 
 ## Usage
 
