@@ -2,7 +2,7 @@ import React from "react";
 
 const NavLeft = () => {
   return (
-    <div className="nav-left w-1/5 p-4 bg-gray-800">
+    <div className="nav-left h-screen w-[20%] p-4 bg-gray-800 fixed">
       <img src="Logo.png" alt="Logo" className="w-[80%] mb-6" />
       <div className="mt-12">
         <label className="text-xs font-semibold text-gray-400 cursor-pointer">

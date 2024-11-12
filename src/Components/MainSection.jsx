@@ -3,7 +3,7 @@ import MusicPlayer from './MusicPlayer';
 
 const MainSection = () => {
   return (
-    <div className='pt-4 bg-gradient-to-b from-red-900 to-black'>
+    <div className='w-4/5 pt-4 bg-gradient-to-b from-red-900 to-black ml-[20%]'>
       <div className="flex justify-around">
         <div className="flex justify-center items-center gap-6 cursor-pointer">
             <span>Music</span>
